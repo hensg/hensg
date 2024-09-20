@@ -16,7 +16,5 @@
    Sociedade Brasileira de Computação · May 26, 2023  
    [https://doi.org/10.5753/wtf.2023.785](https://doi.org/10.5753/wtf.2023.785)
 
-3. **Master's Thesis:  A State Rebalancing Strategy for Partitioned Checkpoints**
-   Universidade Federal de Santa Catarina, 2023
-
-**Resume**: [cv.pdf](./cv.pdf)
+3. **A State Rebalancing Strategy for Partitioned Checkpoints**
+   Master's Thesis, Universidade Federal de Santa Catarina, 2023
