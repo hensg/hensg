@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on hensg.dev</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on hensg.dev</description>
+    <image>
+      <title>hensg.dev</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Oct 2024 20:13:50 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GPG Yubikey</title>
+      <link>http://localhost:1313/posts/gpg_yubikey/</link>
+      <pubDate>Sun, 27 Oct 2024 20:13:50 -0300</pubDate>
+      <guid>http://localhost:1313/posts/gpg_yubikey/</guid>
+      <description>How to configure GPG keys and upload them to multiple Yubikeys. Also, how to use GPG keys for git signed commits.
+Create GPG key pair Generating GPG keys with all capabilities included:
+$ gpg --expert --full-gen-key gpg (GnuPG) 2.4.5; Copyright (C) 2024 g10 Code GmbH This is free software: you are free to change and redistribute it. There is NO WARRANTY, to the extent permitted by law. Please select what kind of key you want: (1) RSA and RSA (2) DSA and Elgamal (3) DSA (sign only) (4) RSA (sign only) (7) DSA (set your own capabilities) (8) RSA (set your own capabilities) (9) ECC (sign and encrypt) *default* (10) ECC (sign only) (11) ECC (set your own capabilities) (13) Existing key (14) Existing key from card Your selection?</description>
+    </item>
+  </channel>
+</rss>
